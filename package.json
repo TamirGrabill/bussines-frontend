@@ -21,12 +21,12 @@
     "react-router": "^4.3.1",
     "react-router-dom": "^4.3.1",
     "react-table": "^6.9.2",
-    "webpack": "^3.11.0"
+    "webpack": "^5.75.0"
   },
   "devDependencies": {
     "concurrently": "^3.5.0",
     "nodemon": "^1.18.10",
-    "react-scripts": "1.0.10"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
